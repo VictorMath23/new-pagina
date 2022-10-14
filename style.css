@@ -1,0 +1,193 @@
+body{
+   height: 97.8vh;  
+   background-image: linear-gradient(to bottom, white 65%, black 35% );
+   /*background-image: url("Logo/wallpaper004.jpg");*/
+   background-position: center center;
+   background-repeat: no-repeat;
+}
+
+main{
+
+  
+  /*background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.497), rgba(128, 128, 128, 0.305), rgba(255, 255, 255, 0));*/
+  padding-left: 20px;
+  
+}
+
+p{
+   font-size: 8pt;
+   text-align: end;
+   margin-top: -35px;
+   color: white;
+   margin-right: 100px;
+   
+}
+
+span{
+   padding-top: 20px;
+}   
+
+body{
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: lightgray;
+   
+}
+
+div{
+  color: white;
+  text-align: end;
+  font-size: 23pt;
+  padding-right: 25px;
+  
+
+
+}
+
+nav{
+  background-image: linear-gradient(to bottom, #696969, #4e4e4e );
+  width: auto;
+  height: 100px;
+  margin-left: -20px;
+  margin-right: -32px;
+  margin-top: -90px;
+  box-shadow: black 1px 1px 1px;
+  text-align: end;
+  color: white;
+}
+header{
+  background-image: linear-gradient(to bottom, #161716, #333333, #404140 );
+  width: auto;    
+  margin-left: -20px;  
+  margin-right: -8px;
+  height: 23px;
+  box-shadow: black  1px 1px 1px;
+}
+
+img.logo{
+  height: 60px;
+  position: absolute;
+  margin-top: -71px;
+  
+ 
+}
+
+img.seaml{
+  position: absolute;
+  height: 161px;
+  margin-top: 33%;
+  margin-left: 80%;
+  opacity: 0.8;
+
+}
+
+img.seaml:hover{
+  height: 165px;
+  margin-top: 32.8%;
+  margin-left: 79.8%;
+  opacity: 1.0;
+  
+}
+
+form{
+  padding: 40px;
+  margin-left: -40px;
+  
+}input#sn{
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: -18px;
+  position: static;
+  margin-top: 3px;
+}
+input#uwip_log{
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: -18px;
+  position: static;
+  margin-top: 30px;
+  
+}
+
+
+button{
+position: fixed;
+top: 255px;
+right: 30px;
+cursor: pointer;
+background-color: rgb(66,139,202) ;
+color: white;
+font-weight: bold;
+padding: 10px;
+border-radius: 10px;
+}
+button:hover{
+
+  box-shadow: 0.8px 0.8px 4px 0px rgb(92, 92, 92);
+  background-color: rgb(7, 114, 208);
+}
+
+hr{
+  margin-right: -95px;
+}
+
+hr#baixo{
+  margin-right: -115px;
+}
+
+
+
+input#rmvr{
+
+  
+  background-color: rgb(217,83,79);
+  color: white;
+  font-weight: bold;
+  padding: 18px;
+  border-radius: 10px;
+  position: relative;
+  margin-top: -10px;
+  margin-left: -17px;
+  border-color: rgb(0, 0, 0);
+  
+  
+  
+  
+}   
+input#rmvr:hover{
+  
+  box-shadow: 0.8px 0.8px 4px 0px rgb(92, 92, 92);
+  background-color: rgb(206, 53, 48);
+  }
+
+input#flh{
+
+  background-color: rgb(217,83,79);
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 37px;
+
+}
+input#flh:hover{
+  
+  box-shadow: 0.8px 0.8px 4px 0px rgb(92, 92, 92);
+  background-color: rgb(206, 53, 48);
+  }
+
+input#maq{
+
+  background-color: rgb(217,83,79);
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 20px;
+
+
+}
+input#maq:hover{
+  
+  box-shadow: 0.8px 0.8px 4px 0px rgb(92, 92, 92);
+  background-color: rgb(206, 53, 48);
+  }
